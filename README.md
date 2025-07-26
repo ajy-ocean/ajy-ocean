@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Microservices, Spring Boot, etc**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ajy-ocean](https://github.com/ajy-ocean)
+- 👨‍💻 All of my Repos are available at [Repos](https://github.com/ajy-ocean?tab=repositories)
 
 - 📫 How to reach me **rtw.ajy@gmail.com**
 
