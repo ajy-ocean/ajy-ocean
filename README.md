@@ -2,7 +2,7 @@
   <img src="./others/adele.gif" width="100%" alt="I LOVE ADELE" />
 </p>
 
-## 👋 Hi, I’m Ajay Laxmi Rawat
+## 👋 Hi, I’m Ajay Laxmi Virendra
 🎬 **RawatJi** — learning, building, and figuring things out one chapter at a time.  
 🤝 Open to collaboration.
 
