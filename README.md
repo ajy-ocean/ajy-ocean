@@ -1,7 +1,5 @@
 <p align="center">
-  <video autoplay loop muted playsinline width="100%">
-    <source src="./others/adele.mp4" type="video/mp4">
-  </video>
+  <img src="./others/adele.gif" width="100%" alt="I LOVE ADELE" />
 </p>
 
 ## 👋 Hi, I’m Ajay Laxmi Rawat
