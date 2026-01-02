@@ -2,13 +2,21 @@
   <img src="./others/adele.gif" width="100%" alt="I LOVE ADELE" />
 </p>
 
-## 👋 Hi, I’m Ajay Laxmi Virendra
-🎬 **RawatJi** — learning, building, and figuring things out one chapter at a time.  
-🤝 Open to collaboration.
+## 👋 Hi, I’m Ajay Laxmi Virendra aka RawatJi
+🎬 **Currently in Season One** — Character development in progress, figuring out the world one chapter at a time.  
+🏔️ **Roots:** Proudly from the hills of **Uttarakhand, India**.  
+🤝 **Status:** Open to collaboration and high-fidelity building.
+
+### 📻 THE FREQUENCY (Lifestyle & Vibes)
+When the code stops, the frequency stays high. Tuned into:
+
+* **THE SOUNDTRACK:** Frank Ocean / J. Cole / Adele + Old Hindi Classics & Gadwali Songs.
+* **THE VISION (Anime):** *3-gatsu no Lion* (The Art) / *One Piece* (The Adventure) / *Naruto* (The Will).
+* **THE SCREEN (Sitcoms):** Friends / Modern Family / Big Bang Theory / Brooklyn Nine-Nine / Two And A Half Men.
+* **THE PITCH:** Football strategy and game days.
 
 ### 🌐 Portfolio
 🔗 [https://ajy-ocean.github.io/rawatji/](https://ajy-ocean.github.io/rawatji/)
-
 
 ### 🤝 Connect with me
 [![LinkedIn Badge](https://img.shields.io/badge/-Ajay%20Laxmi%20Rawat-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-laxmi-bisht-virendra-rawat/)
@@ -19,6 +27,9 @@
 
 <p align="center">
   <i>Currently in season one. Character development in progress.</i>
+</p>
+<p align="center">
+  <i>Stay blonded. Stay Pahadi. Building the future in Orange.</i>
 </p>
 
 ---
